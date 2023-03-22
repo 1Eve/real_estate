@@ -1,0 +1,8 @@
+.hero {
+    background: url('https://images.unsplash.com/photo-1418386767268-77cdab4edcaa?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNzU4ODA2Mw&ixlib=rb-1.2.1&q=85');
+    height: 300px;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
